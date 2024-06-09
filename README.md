@@ -1,4 +1,5 @@
 # Book Store Project using MERN Stack
+## Added Real Time update feature
 
 This is a full-stack web application for a book store built using the MERN stack (MongoDB, Express.js, React.js, Node.js). Users can browse through a collection of books, search for specific titles, view details of each book, add them to their cart for purchase, create new books, edit existing books, and delete books.
 
@@ -65,7 +66,4 @@ This is a full-stack web application for a book store built using the MERN stack
 - Node.js
 
 ## Contributors
-- [atharvkhardekar](https://github.com/atharvkhardekar)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Priyanka Deshmukh](https://github.com/priyanka-deshmukh8)
